@@ -1,4 +1,4 @@
-# Modélisation HMM des trajectoires de fourmis
+# Modélisation HMM et régression angulaire sur  les trajectoires de fourmis
 
 Ce dépôt contient les scripts R utilisés dans mon essai de maîtrise :
 - `code/pretraitement_et_exploration_des_donnees.R` : nettoyage et figures descriptives
