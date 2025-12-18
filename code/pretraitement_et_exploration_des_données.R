@@ -200,7 +200,7 @@ sum
 pdf(file.path(figdir, "rose_angle_id243.pdf"), width = 5, height = 5)
 par(mar = c(1, 1, 1, 1))
 
-# ✅ on force seulement l’AFFICHAGE en cercle complet (style Nicosia)
+#
 plot(y,
      stack    = TRUE,
      cex      = 0.7,
@@ -269,6 +269,7 @@ ggsave(file.path(figdir, "02_step_vs_turning_angle.pdf"),
 ###############################################################################
 #  FIN CHAPITRE 2
 ###############################################################################
+
 
 
 
